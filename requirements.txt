@@ -1,5 +1,5 @@
-streamlit==1.15.0
-cryptography==39.0.1
-bcrypt==4.0.0
-streamlit-option-menu==0.3.3
-altair==5.5.0  # Added altair dependency
+streamlit ==1.15.0
+cryptography ==39.0.1
+bcrypt ==4.0.0
+streamlit-option-menu ==0.3.3
+altair ==5.5.0  
