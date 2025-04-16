@@ -46,9 +46,9 @@ st.title("🔐 Secure Data Vault")
 if selected == "Home":
     st.markdown("""
     ## Welcome to the Secure Data Vault
-    - End-to-end encrypted message storage
-    - Easy login and retrieval
-    - Powered by Fernet encryption
+    - Secure message storage
+    - Simple login and retrieval
+    - Powered by Aiman Rehman
     """)
 
 # Sign Up Page
